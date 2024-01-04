@@ -11,4 +11,5 @@ int main()
 	b=d-c-a;
 	printf("a=%d,b=%d,c=%d",a,b,c);
 	return 0; 
+	//
 }
